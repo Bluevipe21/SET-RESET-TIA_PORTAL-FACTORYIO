@@ -1,6 +1,6 @@
 # Ejemplo de un set y reset utilizando TIA PORTAL y Factoryio
 
-Este es un ejemplo del empleo de las funciones de set y reset en un PLC. El código fué creado usando el lenguaje ladder en el software de tia portal v15. Para verficar el funcionamiento se utilizó el software de simulación en 3D factoryio. Factoryio funciona como software de entrenamiento para diferentes plataformas de PLC ( [Clic aquí para más información](https://docs.factoryio.com/) ). 
+This is an example of the use of the set and reset functions in a PLC. The code was created using the ladder language in the tia portal software v15. To verify the operation, the factoryio 3D simulation software was used. Factoryio works as training software for different PLC platforms.  ( [Click here for more information](https://docs.factoryio.com/) ). 
 
 ---
 
